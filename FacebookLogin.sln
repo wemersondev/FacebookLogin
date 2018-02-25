@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookLogin.Android", "FacebookLogin.Android\FacebookLogin.Android.csproj", "{E0F4246A-E7B7-4A4E-BF9B-CE3AC8DCE4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F4246A-E7B7-4A4E-BF9B-CE3AC8DCE4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F4246A-E7B7-4A4E-BF9B-CE3AC8DCE4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F4246A-E7B7-4A4E-BF9B-CE3AC8DCE4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F4246A-E7B7-4A4E-BF9B-CE3AC8DCE4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0924E35-7513-4F0C-B69F-BAA1D56E2F28}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\familia\Documents\Visual Studio 2017\Projects\FacebookLogin\FacebookLogin\bin\Debug\netstandard2.0\FacebookLogin.deps.json
+C:\Users\familia\Documents\Visual Studio 2017\Projects\FacebookLogin\FacebookLogin\bin\Debug\netstandard2.0\FacebookLogin.dll
+C:\Users\familia\Documents\Visual Studio 2017\Projects\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csprojResolveAssemblyReference.cache
+C:\Users\familia\Documents\Visual Studio 2017\Projects\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csproj.CoreCompileInputs.cache
+C:\Users\familia\Documents\Visual Studio 2017\Projects\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.AssemblyInfoInputs.cache
+C:\Users\familia\Documents\Visual Studio 2017\Projects\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.AssemblyInfo.cs
